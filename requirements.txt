@@ -1,0 +1,5 @@
+PyTelegramBotAPI==3.6.7 
+requests
+random
+time
+os
